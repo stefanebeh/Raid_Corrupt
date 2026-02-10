@@ -31,7 +31,7 @@ async def start_http_server():
 
 # Configuration
 PREMIUM_FILE = "premium.json"
-OWNER_ID = 1463951189984018588
+OWNER_ID = 1464634211406188721
 
 # Premium user management
 def load_premium_users():
